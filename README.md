@@ -24,3 +24,5 @@
 
 Some of my technical work:
 - My Research Gate: https://www.researchgate.net/profile/Eduardo-Oliveira-17
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumagol&layout=compact&theme=vision-friendly-dark)](https://github.com/edumagol/github-readme-stats)
