@@ -6,7 +6,7 @@
 # **Edu Magalhães**
 
 ![Github](https://img.shields.io/github/followers/edumagol?style=social) 
-[![dev.to badge](https://img.shields.io/badge/-Marie%20Stephen%20Leo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marie-stephen-leo/) 
+[![dev.to badge](https://img.shields.io/badge/-Eduardo%20Magalhaes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardomoliveira/) 
 [![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
 [![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
