@@ -23,4 +23,4 @@
 - ⌛ In the past, I was the  a field engineer at Accenture and Vallourec.
 
 Some of my technical work:
-- My Research Gate: https://stephen-leo.medium.com
+- My Research Gate: https://www.researchgate.net/profile/Eduardo-Oliveira-17
