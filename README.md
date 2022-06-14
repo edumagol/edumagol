@@ -3,10 +3,10 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/eduardomoliveira/)">
+  <a href="https://www.linkedin.com/in/eduardomoliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/edumagajanes)">
+  <a href="https://twitter.com/edumagajanes">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
