@@ -42,5 +42,12 @@ Some of my technical work:
 <div>
 
 <!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumagol&layout=compact&theme=vision-friendly-dark)](https://github.com/edumagol/github-readme-stats)
+
+Future adds
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumagol&layout=compact&theme=vision-friendly-dark)](https://github.com/edumagol/github-readme-stats)
+
+Reference for creating this profile README.md file
+https://www.sitepoint.com/github-profile-readme/
+
 -->
