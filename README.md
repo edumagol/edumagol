@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
 </div>
 
-### Hi there 👋
+### 👋 Hi there, my name is 
 # **Edu Magalhães**
 
 ![Github](https://img.shields.io/github/followers/stephenleo?style=social) 
