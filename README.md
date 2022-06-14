@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="100"/>
+</div>
+
 <!--
 **edumagol/edumagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
