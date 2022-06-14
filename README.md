@@ -6,8 +6,8 @@
 # **Edu Magalhães**
 
 ![Github](https://img.shields.io/github/followers/edumagol?style=social) 
-[![dev.to badge](https://img.shields.io/badge/-Eduardo%20Magalhaes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardomoliveira/) 
-[![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
+[![dev.to badge](https://img.shields.io/badge/-Edu%20Magalhaes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardomoliveira/) 
+[![dev.to badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/edumagajanes)
 [![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
 - ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm. My role is 50% IC and 50% managerial.
