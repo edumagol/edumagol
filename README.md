@@ -32,5 +32,6 @@ Some of my technical work:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumagol&layout=compact&theme=vision-friendly-dark)](https://github.com/edumagol/github-readme-stats)
