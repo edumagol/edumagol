@@ -10,17 +10,12 @@
 [![dev.to badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/edumagajanes)
 [![dev.to badge](https://img.shields.io/badge/-%20Kaggle-blue?style=flat)](https://www.kaggle.com/edumagalhaes)
 
-- ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm. My role is 50% IC and 50% managerial.
-- ❤️ My passion and areas of expertise are Neural Search, Natural Language Processing, Computer Vision and Cloud Computing.
-- 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
-- 🔥 I'm also a part time Data Science Instructor at General Assembly.
-- ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
-- 🔭 I’m currently researching and writing blog posts on Neural (Semantic) Search for [Zilliz](https://zilliz.com/), the inventors of [Milvus](https://milvus.io/) vector search database.
-- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
+- ⚡ I'm currently the Head of Data Science at [ihm stefanini](https://www.ihm.com.br/), where we apply AI to factories. My role is 50% IC and 50% managerial.
+- ❤️ My passion and areas of expertise are Process Control and Optimization, Causality, Deep Learning.
+- 🌟 I've helped our team in the development of Data products end-end (Desgin Thinking, Algorithms, Data Engineering, Backend and Frontend, Decision Making process and Chance Management).
+- ✍️ In my free time I'm a musician.
+- 🔭 I’m currently researching the connection between AI, Causality and Process Control Engineering.
+- ⌛ In the past, I was the  a field engineer at Accenture and Vallourec.
 
 Some of my technical work:
-- My Medium Blog: https://stephen-leo.medium.com
-- My talk at Quantum Black Meetup on Weak Supervision: https://www.slideshare.net/StephenLeo7/weak-supervisionpdf
-- My latest invention StripNet (Semantic Similarity of Scientific Papers Network): 
-    - 70+ 🌟 on Github: https://github.com/stephenleo/stripnet
-    - 30+ ❤️ on HF: https://huggingface.co/spaces/stephenleo/stripnet
+- My Research Gate: https://stephen-leo.medium.com
