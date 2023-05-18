@@ -10,7 +10,9 @@
 [![dev.to badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/edumagajanes)
 [![dev.to badge](https://img.shields.io/badge/-%20Kaggle-blue?style=flat)](https://www.kaggle.com/edumagalhaes)
 
-- ⚡ I'm currently the Head of Data Science at [ihm stefanini](https://www.ihm.com.br/), where we apply AI to factories. My role is 50% IC and 50% managerial.
+- ⚡ I'm currently the CTO & Co-founder of [aignosi](https://www.aignosi.com/), where we developed our Data & AI Platform, called SIENTIA™.
+
+- ⚡ My last job was at [ihm stefanini](https://www.ihm.com.br/) as the Head of Data Science, where we applied AI to optimize factories. My role was 50% technical and 50% managerial.
 
 - ❤️ My passion and areas of expertise are Process Control and Optimization, Causality, Deep Learning.
 
